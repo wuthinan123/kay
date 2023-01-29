@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "565739543005",
+    "project_id": "kaypayflutter",
+    "storage_bucket": "kaypayflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565739543005:android:5b5d730b799bb8e233fe34",
+        "android_client_info": {
+          "package_name": "com.example.kaypay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565739543005-lh0l94nn3lsk5j7s8jro6i6mig5uhpln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCewYBGuIojb4cuvUpzqIijsmk77nyt4jI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565739543005-lh0l94nn3lsk5j7s8jro6i6mig5uhpln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
